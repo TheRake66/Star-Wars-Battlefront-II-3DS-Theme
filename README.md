@@ -22,4 +22,4 @@
 
  This project is licensed under a custom license that **prohibits commercial use**.
 
- For more details, see the [LICENSE](./LICENSE) file.
+ For more details, see the [LICENSE](./LICENSE.md) file.
